@@ -38,15 +38,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Public Affairs and Polic
       institution: Portland State University
-      year: 2023
+     # year: 2023
     - course: MA in Comparative Politics
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: University of Siegen
+      # year: 2009
+    - course: BSc in Political Science
+      institution: Pontifical Catholic University of Ecuador
+      # year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
