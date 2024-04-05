@@ -1,9 +1,9 @@
 ---
 # Display name
-title: PhD
+title: 
 
 # Name pronunciation (optional)
-name_pronunciation: Ana Sofia Castellanos
+name_pronunciation: Ana Sofia Castellanos PhD
 
 # Full name (for SEO)
 first_name: Ana Sofia
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Collaborative Democracy
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -98,16 +98,16 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/LaAnitaSofia
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=2UqObBYAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/sofiacastellanos
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
