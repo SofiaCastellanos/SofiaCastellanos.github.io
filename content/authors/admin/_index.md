@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+In my role at Portland State University's National Policy Consensus Center, I apply a deep understanding of policy analysis and collaborative governance to address complex issues. My academic journey culminated in a PhD in Public Affairs and Policy, where I developed a keen expertise in data governance and agricultural policy. My journey into political science research—exploring populism, political parties, electoral systems, and direct democracy—has significantly broadened my analytical lens. This multidisciplinary background prepares me to navigate the socio-political dimensions of policy challenges, providing well-rounded and insightful recommendations.
 {style="text-align: justify;"}
