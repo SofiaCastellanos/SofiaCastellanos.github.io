@@ -29,17 +29,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data governance policy
+  - Collaborative governance as a tool to reach community consensus.
+  - Democracy and mechanisms of direct and participatory democracy
+  - Populism
+  - Critical Discourse Analysis
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+      institution: Portland State University
+      year: 2023
+    - course: MA in Comparative Politics
       institution: Massachusetts Institute of Technology
       year: 2009
     - course: BSc in Artificial Intelligence
