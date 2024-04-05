@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: PhD
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ana Sofia Castellanos
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ana Sofia
+last_name: Castellanos
 
 # Status emoji
 status:
@@ -21,8 +21,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Portland State University
+    url: https://www.pdx.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
