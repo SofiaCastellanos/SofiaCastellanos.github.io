@@ -1,6 +1,6 @@
 ---
 # Display name
-title: PhD
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Ana Sofia Castellanos
