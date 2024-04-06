@@ -12,7 +12,7 @@ sections:
       image:
         filename: hero-academic.png
       cta:
-        label: 'Ana Sofia Castellanos'
+        label: ''
         url: https://hugoblox.com/templates/
       cta_alt:
         label: Ask a question
