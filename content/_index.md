@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ''
-date: 2022-10-24
+title: 'Ana Sofia Castellanos'
+date: 2024-04-24
 type: landing
 
 sections:
@@ -235,7 +235,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Oregon National Consensus - Hatfield School of Government - Portland State University
       # Contact (add or remove contact options as necessary)
       email: acastel2@pdx.edu
 #      phone: 888 888 88 88
@@ -255,11 +255,11 @@ sections:
 #      coordinates:
 #        latitude: '37.4275'
 #        longitude: '-122.1697'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: twitter
-          link: 'https://twitter.com/Twitter'
+#      contact_links:
+#        - icon: twitter
+#          icon_pack: fab
+#          name: twitter
+#          link: 'https://twitter.com/Twitter'
 #        - icon: skype
 #          icon_pack: fab
 #          name: Skype Me
