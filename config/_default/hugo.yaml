@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Ana Sofia Castellanos # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://sofiacastellanos.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
