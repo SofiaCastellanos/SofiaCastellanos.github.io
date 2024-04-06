@@ -8,7 +8,7 @@ sections:
   - block: hero
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: Ana Sofia Castellanos
+      title: ''
       image:
         filename: hero-academic.png
       cta:
