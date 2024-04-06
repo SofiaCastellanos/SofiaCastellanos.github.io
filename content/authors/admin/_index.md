@@ -25,7 +25,7 @@ organizations:
     url: https://www.pdx.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed agricultural data, mobile computing and programmable matter.
+bio: My research interests include distributed agricultural data, collaborative government and leadership, and project management.
 
 # Interests to show in About widget
 interests:
