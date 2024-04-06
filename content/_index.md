@@ -12,7 +12,7 @@ sections:
       image:
         filename: hero-academic.png
       cta:
-        label: '**Get Started**'
+        label: 'Ana Sofia Castellanos'
         url: https://hugoblox.com/templates/
       cta_alt:
         label: Ask a question
@@ -200,6 +200,7 @@ sections:
 #      columns: '2'
       view: card
   - block: collection
+    id: featured
     content:
       title: Recent Publications
       text: |-
@@ -257,7 +258,7 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
+          name: twitter
           link: 'https://twitter.com/Twitter'
 #        - icon: skype
 #          icon_pack: fab
