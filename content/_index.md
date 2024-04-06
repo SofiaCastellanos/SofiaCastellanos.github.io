@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Ana Sofia Castellanos'
+title: ''
 date: 2024-04-24
 type: landing
 
