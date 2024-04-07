@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Ana Sofia Castellanos'
+    notice: '© {year}. Ana Sofia Castellanos'
 #    notice: '© {year} Me. This work is licensed under {license}'
 #    license:
 #      enable: true
@@ -108,7 +108,7 @@ extensions:
     branch: main
     local_backend: false
   academicons:
-    enable: true
+    enable: false
 
 # Security
 
